@@ -1,4 +1,4 @@
-Issue tracker is **ONLY** used for reporting bugs. New features should be discussed on our slack channel. Please use [stackoverflow](https://stackoverflow.com) for supporting issues.
+Issue tracker is **ONLY** used for reporting bugs. New features should be discussed on our Discord in #general
 
 <!--- Provide a general summary of the issue in the Title above -->
 
@@ -28,5 +28,3 @@ Issue tracker is **ONLY** used for reporting bugs. New features should be discus
 ## Detailed Description
 <!--- Provide a detailed description of the change or addition you are proposing -->
 
-## Possible Implementation
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
